@@ -36,6 +36,9 @@ If you use them without the script, you'll just get very bright blinding light s
 
 ## THANKS
 Ntanis | Critical scripts : for his incredible script called Hall
+
 COCKstar x) games : for the prop models
+
 To my dad for bringing me into the lighting profession
+
 To my work for a little holiday
