@@ -12,7 +12,9 @@
 
 ## INSTALLATION 
 Download
+
 unzip
+
 Put in your resources folder ...
 
 ## USING
