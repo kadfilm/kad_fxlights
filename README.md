@@ -11,7 +11,8 @@
 6. stg_strobe_hdgh_n - Light with 9 thin strobing beams with a narrow spread angle , looks like a hedgehog being sucked up by a hoover.
 
 ## INSTALLATION 
-Download zip
+Download
+unzip
 Put in your resources folder ...
 
 ## USING
