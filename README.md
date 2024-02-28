@@ -1,2 +1,2 @@
 # kad_fxlights
-Fivem light pack stages
+Fivem light pack for stages
