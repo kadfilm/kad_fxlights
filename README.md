@@ -9,6 +9,10 @@
 4. stg_spot_sharpy - The light with a thin beam is based on Clay Paky Sharpy
 5. stg_strobe_hdgh - Light with 9 thin strobing beams with a wide spread angle , looks like a hedgehog
 6. stg_strobe_hdgh_n - Light with 9 thin strobing beams with a narrow spread angle , looks like a hedgehog being sucked up by a hoover.
+7. stg_sm_arch_hl - Light with casting shadows and surface light
+8. stg_sm_strobe - Strobe with casting shadows and surface light
+9. stg_sm_fast_strobe - Very fast strobe with casting shadows and surface light
+10. stg_strobe_blinder - Strobe with a large beam area to blind all the people standing in front of the stage x)
 
 ## INSTALLATION 
 Download
