@@ -51,7 +51,7 @@ If you use them without the script, you'll just get very bright blinding light s
 ## How to use projectors
 
 1. Place projector
-2. Add to your replacers to lines
+2. Add to your replacers these two lines
    ```lua
                 ['h4_prop_battle_lights'] = 'pyd_disco_gobo_b',
                 ['stg_tex'] = 'stg_proj',
